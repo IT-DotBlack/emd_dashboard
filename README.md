@@ -136,6 +136,3 @@ Interactive hierarchical view of the data with:
 - Live update timestamps
 - Visual loading indicators
 
-## License
-
-MIT
