@@ -15,7 +15,7 @@
 - **Icons**: Lucide React
 - **API**: Open-Meteo Weather API
 - **Containerization**: Docker, Docker Compose
-- **Web Server**: Nginx (production)
+
 
 ## Getting Started
 
